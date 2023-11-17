@@ -25,5 +25,32 @@
             "preco": "90,00",
             "id": 5
         }
+    ],
+    "aeroportos": [
+        {
+            "id": 1,
+            "nome": "Afonso pena",
+            "cidade": "Curitiba"
+        },
+        {
+            "id": 1,
+            "nome": "Afonso pena",
+            "cidade": "Curitiba"
+        },
+        {
+            "id": 1,
+            "nome": "Afonso pena",
+            "cidade": "Curitiba"
+        },
+        {
+            "id": 1,
+            "nome": "Afonso pena",
+            "cidade": "Curitiba"
+        },
+        {
+            "id": 1,
+            "nome": "Afonso pena",
+            "cidade": "Curitiba"
+        }
     ]
 }
